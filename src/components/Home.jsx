@@ -20,7 +20,7 @@ function Home() {
         </div>
 
 
-        <div className='h-full w-[50%] bg-green-600'>
+        <div className='h-full w-[50%] '>
           <img className='h-full w-full' src={people} alt="" />
         </div>
         

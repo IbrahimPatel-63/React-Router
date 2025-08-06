@@ -22,7 +22,7 @@ function success() {
   return (
     
           <div className='h-[calc(100vh-70px)] bg-red-500 flex'>
-      <div className='h-full w-[50%] bg-purple-600'>
+      <div className='h-full w-[50%] '>
         <img src={lock} className='h-full w-full' alt="security" />
 
       </div>
